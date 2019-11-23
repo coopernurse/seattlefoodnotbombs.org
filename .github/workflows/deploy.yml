@@ -22,9 +22,13 @@ jobs:
     - name: Build
       run: hugo --minify
 
-#    - name: Deploy
-#      uses: contention/rsync-deployments@v1.0.0
-#      env: 
-#        DEPLOY_KEY: ${{secrets.DEPLOY_KEY}} 
-#      with: 
-#        args: "-avzr --delete --exclude public/ fnbdeploy@bookchin.seattlefoodnotbombs.org:/opt/web/sites/seattlefoodnotbombs.org/"        
+    - name: Deploy
+      uses: maxheld83/rsync@v0.1.1
+      env:
+        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        SSH_PUBLIC_KEY: ${{ secrets.SSH_PUBLIC_KEY }}        
+        HOST_NAME: bookchin.seattlefoodnotbombs.org
+        HOST_IP: 206.189.64.192
+        HOST_FINGERPRINT: "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBFv3daIIc+SmkygG8cQjd/7bskGXXvnm3Nf6tmCTYvThdApVC0Dz+7y7AD6RYSdmXq5+r60MMyQpelDgao2aLgI="
+      with: 
+        args: "$GITHUB_WORKSPACE/public/ fnbdeploy@$HOST_NAME:/opt/web/sites/seattlefoodnotbombs.org/"
