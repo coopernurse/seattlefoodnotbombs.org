@@ -1,0 +1,30 @@
+name: deploy
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@master
+      # with:
+      #   submodules: true
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.3.0
+      with:
+        hugo-version: '0.59.1'
+        # extended: true
+
+    - name: Build
+      run: hugo --minify
+
+#    - name: Deploy
+#      uses: contention/rsync-deployments@v1.0.0
+#      env: 
+#        DEPLOY_KEY: ${{secrets.DEPLOY_KEY}} 
+#      with: 
+#        args: "-avzr --delete --exclude public/ fnbdeploy@bookchin.seattlefoodnotbombs.org:/opt/web/sites/seattlefoodnotbombs.org/"        
