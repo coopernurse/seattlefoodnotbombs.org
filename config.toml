@@ -82,14 +82,19 @@ pygmentsUseClasses = true # new add
 
 # Menu links
 [[menu.main]]
-    name = "Volunteer"
+    name = "About"
     weight = 1
-    url  = "volunteer"
+    url  = "about"
+[[menu.main]]
+    name = "Join"
+    weight = 2
+    url = "join"
 [[menu.main]]
     name = "Contact"
-    weight = 2
-    url = "contact"
+    weight = 3
+    url = "contact"    
 [[menu.main]]
     name = "Forum"
-    weight = 3
+    weight = 4
     url = "https://forum.seattlefoodnotbombs.org/"
+    
