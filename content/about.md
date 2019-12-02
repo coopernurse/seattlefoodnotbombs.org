@@ -17,15 +17,18 @@ of common core principles:
 * Dedication to nonviolence
 * Food is a right, not a privilege
 
-Our group serves a weekly hot meal. The food we serve comes from 
-donations from local restaurants and food cooked by our members.
+## Free Market
 
-## When
+The free market distributes produce and groceries donated from area grocery
+stores to anyone who wants them free of charge.
 
-Every Sunday at 4:30pm
+The free market is held every Sunday at 1:30pm at the
+[Cascade People's Center](https://www.openstreetmap.org/export#map=19/47.62113/-122.33204) 
+in South Lake Union.
 
-## Where
+## Hot Meal
 
+We serve a weekly hot meal every Sunday at 4:30pm at 
 [Occidental Park](https://www.openstreetmap.org/#map=19/47.60029/-122.33328)
 in Pioneer Square, near the Fire Fighters' Memorial.
 

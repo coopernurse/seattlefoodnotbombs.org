@@ -14,8 +14,9 @@ pygmentsUseClasses = true # new add
 #disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [params] # theme parameters
-    author = "Free Hot Food - Solidarity, not Charity" # Author's name.
-    info = "Every Sunday @ 4:30pm - Occidental Park, Seattle" # Author's job title or info.
+    author = "Free Food For All" # Author's name.
+    info = "Free Market - Sundays @ 1:30pm - Cascade People's Center, Seattle"
+    info2 = "Hot Meal - Sundays @ 4:30pm - Occidental Park, Seattle"    
     description = "Yusuke Ishimi's personal website" # Site description.
     keywords = "blog,food,solidarity,seattle" # Site keywords.
     avatarurl = "images/fnb-logo.png" # Contain the path of the optionnal avatar in the static folder.
