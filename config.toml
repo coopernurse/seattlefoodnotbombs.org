@@ -17,7 +17,7 @@ pygmentsUseClasses = true # new add
     author = "Free Food For All" # Author's name.
     info = "Free Market - Sundays @ 1:30pm - Cascade People's Center, Seattle"
     info2 = "Hot Meal - Sundays @ 4:30pm - Occidental Park, Seattle"    
-    description = "Yusuke Ishimi's personal website" # Site description.
+    description = "Food is a right, not a privilege" # Site description.
     keywords = "blog,food,solidarity,seattle" # Site keywords.
     avatarurl = "images/fnb-logo.png" # Contain the path of the optionnal avatar in the static folder.
 
