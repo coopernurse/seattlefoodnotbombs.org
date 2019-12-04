@@ -6,7 +6,7 @@ draft: false
 
 ## What
 
-[Food Not Bombs](http://foodnotbombs.net/) is a decentralized movement
+[Food Not Bombs](http://foodnotbombs.net/) is a decentralized global movement
 dedicated to sharing free vegan and vegetarian food.
 
 While each Food Not Bombs group is independent, we all adhere to a set 
@@ -23,7 +23,7 @@ The free market distributes produce and groceries donated from area grocery
 stores to anyone who wants them free of charge.
 
 The free market is held every Sunday at 1:30pm at the
-[Cascade People's Center](https://www.openstreetmap.org/export#map=19/47.62113/-122.33204) 
+[Cascade Playground](https://www.openstreetmap.org/export#map=19/47.62173/-122.33195) 
 in South Lake Union.
 
 ## Hot Meal

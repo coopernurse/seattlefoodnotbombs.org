@@ -23,6 +23,6 @@ If you work at a cafe or restaurant that would like to help us
 by donating unsold food, please [contact us](/contact/).
 
 Let's work together to minimize food waste and feed our
-community.
+community!
 
 

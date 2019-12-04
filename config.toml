@@ -15,7 +15,7 @@ pygmentsUseClasses = true # new add
 
 [params] # theme parameters
     author = "Free Food For All" # Author's name.
-    info = "Free Market - Sundays @ 1:30pm - Cascade People's Center, Seattle"
+    info = "Free Market - Sundays @ 1:30pm - Cascade Playground, Seattle"
     info2 = "Hot Meal - Sundays @ 4:30pm - Occidental Park, Seattle"    
     description = "Food is a right, not a privilege" # Site description.
     keywords = "blog,food,solidarity,seattle" # Site keywords.
@@ -42,8 +42,8 @@ pygmentsUseClasses = true # new add
     snsShare = true # new add
     # Popular sns share
     # if you want add sns. please message!
-    enableTwitterShare = true  # new add
-    enableFacebookShare = true # new add
+    enableGithubLink = true  # new add
+    enableFacebookLink = true # new add
     enableHatenaShare = false   # new add
     enableLineShare = false     # new add
     enableLinkedInShare = false # new add
@@ -70,16 +70,6 @@ pygmentsUseClasses = true # new add
 #    icon = "fab fa-twitter"
 #    weight = 2
 #    url = "https://twitter.com/naro143/"
-#[[params.social]]
-#    name = "LinkedIn"
-#    icon = "fab fa-linkedin"
-#    weight = 3
-#    url = "https://www.linkedin.com/in/naro143/"
-#[[params.social]]
-#    # If icon is not set, Text is displayed.
-#    name = "LinkedIn"
-#    weight = 4
-#    url = "https://www.linkedin.com/in/naro143/"
 
 # Menu links
 [[menu.main]]
