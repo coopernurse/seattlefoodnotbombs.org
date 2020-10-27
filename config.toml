@@ -16,7 +16,8 @@ pygmentsUseClasses = true # new add
 [params] # theme parameters
     author = "Free Food For All" # Author's name.
     info = "Free Market - Sundays @ 1:30pm - Cascade Playground, Seattle"
-    info2 = "Hot Meal - Sundays @ 4:30pm - Occidental Park, Seattle"    
+    info2 = "Hot Meal - Saturday @ 4:30pm - City Hall Park, Seattle"    
+    info3 = "Hot Meal - Sundays @ 4:30pm - Occidental Park, Seattle"    
     description = "Food is a right, not a privilege" # Site description.
     keywords = "blog,food,solidarity,seattle" # Site keywords.
     avatarurl = "images/fnb-logo.png" # Contain the path of the optionnal avatar in the static folder.

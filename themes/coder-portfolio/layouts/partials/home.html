@@ -8,6 +8,9 @@
     {{ if .Site.Params.info2 }}
     <h2>{{ .Site.Params.info2 }}</h2>
     {{ end }}
+    {{ if .Site.Params.info3 }}
+    <h2>{{ .Site.Params.info3 }}</h2>
+    {{ end }}
     {{ with .Site.Params.social }}
     <ul class="social-list">
       {{ range sort . "weight"}}
