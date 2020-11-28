@@ -8,6 +8,9 @@
         {{ if .Site.Params.enableFacebookLink }}
           <a class="fb btn sns-share fb-share" href="https://www.facebook.com/pg/SeattleFoodNotBombs"></i></a>
         {{ end }}
+        {{ if .Site.Params.enableInstagramLink }}
+          <a class="sns-share ig-share" href="https://www.instagram.com/seattlefoodnotbombs/?hl=en" target="_blank"><i class="fab fa-instagram"></i></a>
+        {{ end }}
         {{ if .Site.Params.enableHatenaShare }}
           <a class="sns-share hatena-share" href="http://b.hatena.ne.jp/entry/{{ .Permalink }}"  data-hatena-bookmark-layout="touch" data-hatena-bookmark-width="40" data-hatena-bookmark-height="40" title="このエントリーをはてなブックマークに追加"><i class="fas fa-bookmark"></i></a>
         {{ end }}
@@ -38,6 +41,9 @@
         {{ end }}
         {{ if .Site.Params.enableFacebookLink }}
           <a class="fb btn sns-share fb-share" href="https://www.facebook.com/pg/SeattleFoodNotBombs" target="_blank"><i class="fab fa-facebook-f"></i></a>
+        {{ end }}
+        {{ if .Site.Params.enableInstagramLink }}
+          <a class="sns-share ig-share" href="https://www.instagram.com/seattlefoodnotbombs/?hl=en" target="_blank"><i class="fab fa-instagram"></i></a>
         {{ end }}
         {{ if .Site.Params.enableHatenaShare }}
           <a class="sns-share hatena-share" href="http://b.hatena.ne.jp/entry/{{ .Permalink }}"  data-hatena-bookmark-layout="touch" data-hatena-bookmark-width="40" data-hatena-bookmark-height="40" title="このエントリーをはてなブックマークに追加"><i class="fas fa-bookmark"></i></a>

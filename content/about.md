@@ -12,10 +12,10 @@ dedicated to sharing free vegan and vegetarian food.
 While each Food Not Bombs group is independent, we all adhere to a set 
 of common core principles:
 
-* Promotion of veganism and vegetarianism
-* Horizontal decision making using consensus
-* Dedication to nonviolence
-* Food is a right, not a privilege
+* Dedication to [mutual aid over charity](http://www.deanspade.net/wp-content/uploads/2020/03/Mutual-Aid-Article-Social-Text-Final.pdf)
+* Horizontal decision making using [consensus](https://www.seedsforchange.org.uk/shortconsensus)
+* Dedication to nonviolence and promotion of veganism/vegetarianism
+* Food is a human right, not a privilege
 
 ## Free Market
 
@@ -28,11 +28,11 @@ in South Lake Union.
 
 ## Hot Meal
 
-We serve a weekly hot meal every Sunday at 4:30pm at 
-[Occidental Park](https://www.openstreetmap.org/#map=19/47.60029/-122.33328)
-in Pioneer Square, near the Fire Fighters' Memorial.
+We serve two weekly hot meals every Saturday at 4:30PM in [City Hall Park](https://www.openstreetmap.org/#map=19/47.60212/-122.33058)
+and every Sunday at 4:30PM in [Occidental Park](https://www.openstreetmap.org/#map=19/47.60029/-122.33328)
+in Pioneer Square, near the Firefighters' Memorial.
 
-We setup tables next to the memorial and sometimes put up a canopy if 
+We set up tables next to the memorial and sometimes put up a canopy if 
 it's raining.
 
 ## Who

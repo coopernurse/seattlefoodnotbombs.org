@@ -45,6 +45,7 @@ pygmentsUseClasses = true # new add
     # if you want add sns. please message!
     enableGithubLink = true  # new add
     enableFacebookLink = true # new add
+    enableInstagramLink = true # new add
     enableHatenaShare = false   # new add
     enableLineShare = false     # new add
     enableLinkedInShare = false # new add
@@ -67,10 +68,10 @@ pygmentsUseClasses = true # new add
 #    url = "https://www.facebook.com/SeattleFoodNotBombs"
     
 #[[params.social]]
-#    name = "Twitter"
-#    icon = "fab fa-twitter"
+#    name = "Instagram"
+#    icon = "fab fa-instagram-f"
 #    weight = 2
-#    url = "https://twitter.com/naro143/"
+#    url = "https://www.instagram.com/seattlefoodnotbombs/?hl=en"
 
 # Menu links
 [[menu.main]]
@@ -84,9 +85,5 @@ pygmentsUseClasses = true # new add
 [[menu.main]]
     name = "Contact"
     weight = 3
-    url = "contact"    
-[[menu.main]]
-    name = "Forum"
-    weight = 4
-    url = "https://forum.seattlefoodnotbombs.org/"
+    url = "contact"
     

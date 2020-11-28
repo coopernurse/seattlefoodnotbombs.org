@@ -7,3 +7,4 @@ draft: false
 * Email: [hello@seattlefoodnotbombs.org](mailto:hello@seattlefoodnotbombs.org)
 * Phone: 253-237-6196
 * [Facebook Page](https://www.facebook.com/pg/SeattleFoodNotBombs)
+* [Instagram](https://www.instagram.com/seattlefoodnotbombs/)
