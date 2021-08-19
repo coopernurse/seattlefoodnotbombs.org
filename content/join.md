@@ -7,7 +7,7 @@ draft: false
 ## Individuals
 
 If you want to join our chapter, simply show up to one of our
-weekend sharings at City Hall park (Saturdays) or Occidental Park (Sundays).
+weekend sharings at Prefontaine Place (Saturdays) or Occidental Park (Sundays).
 
 Once you've met some folks and gotten the sense of what we do
 you can expand your involvement as desired. Ways to help include:

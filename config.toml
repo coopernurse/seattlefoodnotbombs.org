@@ -16,7 +16,7 @@ pygmentsUseClasses = true # new add
 [params] # theme parameters
     author = "Free Food For All" # Author's name.
     info = "Hot Meal Shares"
-    info2 = "Saturdays @ 4:30pm - City Hall Park (By the King County Courthouse), Seattle"    
+    info2 = "Saturdays @ 4:30pm - Prefontaine Place (By Pioneer Square Station), Seattle"    
     info3 = "Sundays @ 4:30pm - Occidental Park, Seattle"    
     description = "Food is a right, not a privilege" # Site description.
     keywords = "blog,food,solidarity,seattle" # Site keywords.

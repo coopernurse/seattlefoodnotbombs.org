@@ -20,14 +20,11 @@ of common core principles:
 
 ## Hot Meal
 
-We serve two weekly hot meals every Saturday at 4:30PM in [City Hall Park](https://www.openstreetmap.org/#map=19/47.60212/-122.33058)
+We serve two weekly hot meals every Saturday at 4:30PM in [Prefontaine Place](https://www.openstreetmap.org/#map=19/47.60186/-122.33119)
 and every Sunday at 4:30PM in [Occidental Park](https://www.openstreetmap.org/#map=19/47.60029/-122.33328)
-in Pioneer Square, near the Firefighters' Memorial.
+in Pioneer Square, under the glass shelter.
 
-We set up tables next to the memorial and sometimes put up a canopy if 
-it's raining.
-
-Sometimes we run a bit late, but we're there every week and usually ready to go by 4:45 or 5.
+Sometimes we run a bit late, but we're there every week and usually ready to go by 4:45 or 5!
 
 ## Who
 
