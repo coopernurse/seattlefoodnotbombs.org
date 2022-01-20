@@ -7,7 +7,7 @@ draft: false
 ## Individuals
 
 If you want to join our chapter, simply show up to one of our
-weekend sharings at Prefontaine Place (Saturdays) or Occidental Park (Sundays).
+weekend sharings at Occidental Square!
 
 Once you've met some folks and gotten the sense of what we do
 you can expand your involvement as desired. Ways to help include:
@@ -16,6 +16,7 @@ you can expand your involvement as desired. Ways to help include:
 * Cooking food
 * Assisting with the web site
 * Tabling at local events
+* Sharing any skills you have
 
 ## Restaurants
 

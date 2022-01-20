@@ -14,17 +14,16 @@ of common core principles:
 
 * Dedication to [mutual aid over charity](http://www.deanspade.net/wp-content/uploads/2020/03/Mutual-Aid-Article-Social-Text-Final.pdf)
 * Horizontal decision making using [consensus](https://www.seedsforchange.org.uk/shortconsensus)
-* Opposition to all forms of oppression such as racism, sexism, homophobia, transphobia.
+* Opposition to all forms of oppression such as racism, sexism, homophobia, transphobia etc.
 * Dedication to nonviolence and promotion of veganism/vegetarianism
 * Food is a human right, not a privilege
 
 ## Hot Meal
 
-We serve two weekly hot meals every Saturday at 4:30PM in [Prefontaine Place](https://www.openstreetmap.org/#map=19/47.60186/-122.33119)
-and every Sunday at 4:30PM in [Occidental Park](https://www.openstreetmap.org/#map=19/47.60029/-122.33328)
+We serve two weekly hot meals every Saturday and Sunday at 4:30PM in [Occidental Square](https://www.openstreetmap.org/#map=19/47.60029/-122.33328)
 in Pioneer Square, under the glass shelter.
 
-Sometimes we run a bit late, but we're there every week and usually ready to go by 4:45 or 5!
+We tend to run a bit late, but we're there every week and usually ready to go by 4:45 or 5!
 
 ## Who
 
