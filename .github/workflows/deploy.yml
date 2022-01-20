@@ -26,12 +26,22 @@ jobs:
       run: hugo --minify
 
     - name: Deploy
-      uses: maxheld83/rsync@v0.1.1
+      uses: up9cloud/action-rsync@master
       env:
-        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-        SSH_PUBLIC_KEY: ${{ secrets.SSH_PUBLIC_KEY }}        
-        HOST_NAME: bookchin.seattlefoodnotbombs.org
-        HOST_IP: 206.189.64.192
-        HOST_FINGERPRINT: "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBFv3daIIc+SmkygG8cQjd/7bskGXXvnm3Nf6tmCTYvThdApVC0Dz+7y7AD6RYSdmXq5+r60MMyQpelDgao2aLgI="
-      with: 
-        args: "$GITHUB_WORKSPACE/public/ fnbdeploy@$HOST_NAME:/opt/web/sites/seattlefoodnotbombs.org/"
+        HOST: bookchin.seattlefoodnotbombs.org
+        USER: fnbdeploy
+        KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        SOURCE: $GITHUB_WORKSPACE/public/
+        TARGET: /opt/web/sites/seattlefoodnotbombs.org/
+        VERBOSE: true
+      
+#    - name: Deploy
+#      uses: maxheld83/rsync@v0.1.1
+#      env:
+#        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+#        SSH_PUBLIC_KEY: ${{ secrets.SSH_PUBLIC_KEY }}        
+#        HOST_NAME: bookchin.seattlefoodnotbombs.org
+#        HOST_IP: 206.189.64.192
+#        HOST_FINGERPRINT: "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBFv3daIIc+SmkygG8cQjd/7bskGXXvnm3Nf6tmCTYvThdApVC0Dz+7y7AD6RYSdmXq5+r60MMyQpelDgao2aLgI="
+#      with: 
+#        args: "$GITHUB_WORKSPACE/public/ fnbdeploy@$HOST_NAME:/opt/web/sites/seattlefoodnotbombs.org/"
