@@ -30,6 +30,6 @@ We tend to run a bit late, but we're there every week and usually ready to go by
 A ragtag group of fine individuals who believe in a kinder world. If you agree with the principles above
 we encourage you to [join us](/join/).
 
-## Free Market Disclaimer
+## Free Market
 
-There is another Food Not Bombs group in Seattle that goes by Food Not Bombs Free Market. We are not affiliated with them in any way but have received complaints about certain problematic members of the group, so this is a disclaimer for people to be aware of these issues if they want to seek them out.
+There is another Food Not Bombs group in Seattle that goes by Food Not Bombs Free Market. It takes place at Cascade Playground at 1:30PM on Sundays. The Free Market is a separate event from this hot meal share.
