@@ -20,10 +20,8 @@ of common core principles:
 
 ## Hot Meal
 
-We serve two weekly hot meals every Saturday and Sunday at 4:30PM in [Occidental Square](https://www.openstreetmap.org/#map=19/47.60029/-122.33328)
+We serve two weekly hot meals every Saturday and Sunday at 5PM in [Occidental Square](https://www.openstreetmap.org/#map=19/47.60029/-122.33328)
 in Pioneer Square, under the glass shelter.
-
-We tend to run a bit late, but we're there every week and usually ready to go by 4:45 or 5!
 
 ## Who
 
