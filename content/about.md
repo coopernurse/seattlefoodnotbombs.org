@@ -20,8 +20,8 @@ of common core principles:
 
 ## Hot Meal
 
-We serve two weekly hot meals every Saturday and Sunday at 5PM in [Occidental Square](https://www.openstreetmap.org/#map=19/47.60029/-122.33328)
-in Pioneer Square, under the glass shelter.
+We serve two weekly hot meals every Saturday and Sunday at 5:30PM in [Occidental Square](https://www.openstreetmap.org/#map=19/47.60029/-122.33328)
+in the Pioneer Square neighborhood of downtown Seattle, under the glass shelter. Sometimes we run a little late for setup, so 5:45 or 6 is a better time to show up if it's your first time!
 
 ## Who
 
