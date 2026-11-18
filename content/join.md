@@ -7,7 +7,7 @@ draft: false
 ## Individuals
 
 If you want to join our chapter, simply show up to one of our
-weekend sharings at Occidental Square!
+weekend sharings at Occidental Square every Saturday and Sunday at 5:30PM (sometimes we arrive closer to 6)! 
 
 Once you've met some folks and gotten the sense of what we do
 you can expand your involvement as desired. Ways to help include:
@@ -17,6 +17,8 @@ you can expand your involvement as desired. Ways to help include:
 * Assisting with the web site
 * Tabling at local events
 * Sharing any skills you have
+
+If you're located closer to Eastside of King County, check out our friends at [Eastside Food not Bombs](https://eastsidefnb.org/)!
 
 ## Restaurants
 
